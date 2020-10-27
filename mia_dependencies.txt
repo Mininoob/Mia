@@ -1,0 +1,24 @@
+pip install speechrecognition
+pip install pipwin
+pipwin install pyaudio
+pip install playsound
+pip install gtts
+
+source venv/Scripts/activate
+
+#Made by Joshua Le project MIA My Intelligent Assistant
+#Usage
+#Mia - activates her (you need to say this to call her)
+#
+#Commands
+#time - tells you the time
+#Locate - Promts you a place to locate and brings up google maps
+#Search - search something on google
+#Search (on youtube) - searches on youtube
+#where is (location) - it will show you where it is on google maps
+
+#Example:
+#you: Hey mia (activates her)
+#Mia: "Yes"
+#you: Where is San Antonio
+#Mia: pulls up google maps with san antonio
